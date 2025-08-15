@@ -22,3 +22,32 @@ An AI-powered chatbot offering:
 git clone https://github.com/yourusername/mental-health-support-bot.git
 cd mental-health-support-bot
 pip install -r requirements.txt
+
+
+Usage
+streamlit run app/main.py
+🛠️ Configuration
+File	Purpose
+app/main.py	Main application logic
+app/assets/background.png	Custom background image
+
+🌟 Features
+python
+def generate_affirmation():
+    """Returns personalized positive affirmations"""
+    
+def generate_meditation():
+    """Creates 5-minute guided meditations"""
+🤝 Contributing
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit changes (git commit -m 'Add amazing feature')
+
+Push to branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
